@@ -2,7 +2,16 @@
 
 Release notes for every published version of Skitter.
 
-## 1.0 (Coming Soon)
+## 1.0.1
+
+**Bug Fixes**
+- Fixed an issue where free users could access Intermediate and Advanced exercises through the Suggested list without being prompted about Skitter Pro. Suggested exercises now show a preview notice encouraging users to unlock Pro.
+- Fixed starting fret changes in one exercise incorrectly carrying over to other exercises in progressions. Each exercise now remembers its own starting fret.
+- Fixed Broken Octaves and other interval exercises skipping notes in Learn mode when consecutive notes share the same fret on different strings.
+
+---
+
+## 1.0
 
 Initial public release.
 
