@@ -34,21 +34,12 @@ Quick answers to the most common questions. If your issue isn't here, email [app
 - Try closing and relaunching the app on the receiving device.
 - After toggling iCloud sync on or off in Skitter settings, the change takes effect the next time you open the app.
 
-## Dropbox sync isn't working
-
-1. Open **Settings → Data & Privacy** and confirm Dropbox shows "Connected."
-2. Tap **Sync Now** to force an immediate sync.
-3. If you see an error, try disconnecting and reconnecting. Go to **Settings → Data & Privacy → Disconnect**, then tap **Connect** again.
-4. Confirm you have an internet connection. Dropbox sync requires network access.
-5. If the sync was working and suddenly stopped, your Dropbox token may have expired. Disconnect and reconnect to refresh it.
-
 ## A progression or template I created disappeared
 
-Progressions and templates are stored locally and (if enabled) backed up to iCloud and/or Dropbox.
+Progressions and templates are stored locally and (if enabled) backed up to iCloud.
 
 1. Force-quit and relaunch the app. iCloud sync occasionally needs a foreground event to fetch.
 2. Check your other devices — if the data is there, a sync will bring it back.
-3. If you have Dropbox connected, your data is backed up there as individual JSON files in `/Apps/Skitter/`.
 
 ## The app crashes on launch
 
