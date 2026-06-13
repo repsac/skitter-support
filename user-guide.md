@@ -32,7 +32,7 @@ The active instrument is shown in the top-right corner.
 
 ## Exercises
 
-Skitter includes 50 exercises across five categories.
+Skitter includes 50 exercises across five categories. Beginner exercises are free; Intermediate and Advanced exercises require Skitter Pro.
 
 ### Spider / Coordination (8 exercises)
 
@@ -43,31 +43,31 @@ These are key-agnostic — they train finger independence without targeting a sp
 | Classic Spider Walk | Beginner | 1-2-3-4 finger pattern across all strings, then reversed |
 | Single-String Stretch | Beginner | 5-6-7-8 on one string with alternating picking |
 | Chromatic Exercise | Beginner | 1-2-3-4 on every fret across all strings |
-| Legato Spider | Intermediate | Classic spider pattern using hammer-ons and pull-offs instead of picking |
-| Finger Independence — Holding 1-2-3 | Intermediate | Fingers 1-2-3 stay anchored while finger 4 plays independently |
-| Finger Independence — Walking 3 & 4 | Intermediate | Fingers 1-2 anchored while 3 and 4 walk back and forth |
-| Diagonal Spider | Intermediate | 1-2-3-4 pattern that shifts up one fret on each string change |
-| Descending Stretch | Intermediate | Starts at fret 7 and works downward (fixed starting position) |
+| Legato Spider | Intermediate (Pro) | Classic spider pattern using hammer-ons and pull-offs instead of picking |
+| Finger Independence — Holding 1-2-3 | Intermediate (Pro) | Fingers 1-2-3 stay anchored while finger 4 plays independently |
+| Finger Independence — Walking 3 & 4 | Intermediate (Pro) | Fingers 1-2 anchored while 3 and 4 walk back and forth |
+| Diagonal Spider | Intermediate (Pro) | 1-2-3-4 pattern that shifts up one fret on each string change |
+| Descending Stretch | Intermediate (Pro) | Starts at fret 7 and works downward (fixed starting position) |
 
 ### Scales (18 exercises)
 
 Scales are key-selectable — you choose which of the 12 musical keys to practice in.
 
-- **Basic (4):** Major / Ionian, Natural Minor / Aeolian, Harmonic Minor, Melodic Minor
-- **Pentatonic (3):** Major Pentatonic, Minor Pentatonic, Blues Scale
-- **Modes (7):** Ionian, Dorian, Phrygian, Lydian, Mixolydian, Aeolian, Locrian
-- **Exotic / Advanced (4):** Whole Tone, Diminished Whole-Half, Diminished Half-Whole, Phrygian Dominant
+- **Basic (4):** Major / Ionian (Beginner), Natural Minor / Aeolian (Beginner), Harmonic Minor (Pro), Melodic Minor (Pro)
+- **Pentatonic (3):** Major Pentatonic (Beginner), Minor Pentatonic (Beginner), Blues Scale (Pro)
+- **Modes (7, all Pro):** Ionian, Dorian, Phrygian, Lydian, Mixolydian, Aeolian, Locrian
+- **Exotic / Advanced (4, all Pro):** Whole Tone, Diminished Whole-Half, Diminished Half-Whole, Phrygian Dominant
 
 ### Arpeggios (11 exercises)
 
-- **Triads (4):** Major, Minor, Augmented, Diminished
-- **Seventh Chords (7):** Dominant 7th, Major 7th, Minor 7th, Minor Major 7th, Half-Diminished 7th (m7b5), Diminished 7th, Augmented Major 7th
+- **Triads (4):** Major (Beginner), Minor (Beginner), Augmented (Pro), Diminished (Pro)
+- **Seventh Chords (7, all Pro):** Dominant 7th, Major 7th, Minor 7th, Minor Major 7th, Half-Diminished 7th (m7b5), Diminished 7th, Augmented Major 7th
 
-### Broken Intervals (8 exercises)
+### Broken Intervals (8 exercises, all Pro)
 
 Two-note patterns that train your ear and hand together: Thirds, Fourths, Fifths, Sixths, Sevenths, Octaves, Ninths, Tenths.
 
-### Circle Progressions (2 exercises)
+### Circle Progressions (2 exercises, all Pro)
 
 Circle of Fourths and Circle of Fifths — major triads cycling through all 12 keys.
 
@@ -421,7 +421,7 @@ Shows a horizontal strip of all 12 notes (C through B) with the detected note hi
 ### Switching modes
 
 - **iPad / Mac Catalyst** — a Standard / Chromatic toggle button appears in the title area
-- **iPhone** — long-press anywhere on the tuner for 2 seconds to toggle (Pro only; there's no visible toggle button because the compact layout doesn't have room)
+- **iPhone** — tap the small icon button in the top-right corner of the dial (a tuning fork switches to Chromatic; a guitars icon switches back to Standard). You can also long-press anywhere on the tuner for 2 seconds to toggle. Both are Pro only.
 
 ### Reference pitch
 
@@ -645,6 +645,7 @@ Skitter is free to download. A one-time **Skitter Pro** purchase removes all lim
 
 | Feature | Free | Pro |
 |---|---|---|
+| Exercises | 9 Beginner exercises | All 50 (adds 27 Intermediate + 14 Advanced) |
 | Metronome BPM | Up to 100 | Up to 300 |
 | Session duration | Up to 2 minutes | Unlimited |
 | Display modes | Fretboard only | Fretboard + Tab + Notation |
@@ -655,7 +656,7 @@ Skitter is free to download. A one-time **Skitter Pro** purchase removes all lim
 | Quick Start slots | 1 (daily suggestion) | 3 (1 + 2 custom) |
 | All other features | Full access | Full access |
 
-Everything not listed — exercises, saved presets, templates, progress tracking, trophies, iCloud sync, all settings — is fully available on the free tier.
+Everything not listed — saved presets, templates, progress tracking, trophies, iCloud sync, all settings — is fully available on the free tier.
 
 ---
 

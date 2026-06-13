@@ -15,6 +15,8 @@ Release notes for every published version of Skitter.
 - The "First Perfect" trophy now requires a true 100% rhythm score. Previously it unlocked after almost any graded session. Trophies granted by this bug are automatically removed once and can be re-earned honestly.
 - BPM personal bests and the 100/140 BPM trophies no longer count Learn-mode sessions — self-paced playing speed isn't a metronome record.
 - The Personal Records card now shows a real per-exercise trend instead of always displaying "improving."
+- The Personal Records card now lists your best run for each exercise instead of repeating the same exercise once per session.
+- Sessions ended before the halfway point no longer count toward trophies or personal records — matching how they're already left out of your practice stats.
 
 **Bug Fixes — Audio & Sessions**
 - Phone calls, Siri, and alarms now pause the session cleanly instead of leaving the beat counter running silently. The tuner resumes automatically when the interruption ends, and rhythm grading picks up where it left off.
@@ -29,6 +31,9 @@ Release notes for every published version of Skitter.
 - Key-of-the-Day notifications now announce each day's actual key. Previously every notification repeated the key from the day it was scheduled.
 - The notation view now shows accuracy shapes for all feedback styles. Previously users with "String Glow" selected saw no accuracy feedback in notation.
 - The exercises screen no longer shows a confusing empty-search message when only filters produced no results.
+- Fixed: the trophy gallery had no way to open it. A Trophies card on the Progress screen now opens the full gallery.
+- The session summary no longer reports 100% note accuracy when no notes were actually heard.
+- Template summaries now show each exercise's real length — a 30-second exercise no longer displays as one minute.
 
 **Improvements**
 - Every Skitter Pro prompt now includes an "Unlock Pro" button so you can purchase right where you hit the limit.
@@ -36,6 +41,9 @@ Release notes for every published version of Skitter.
 - Long practice sessions use noticeably less battery: the fretboard and the scrolling tab/notation views were significantly optimized.
 - VoiceOver: switches now announce their on/off state, and the navigation tabs announce which tab is selected.
 - Free-tier limits are now applied consistently everywhere, including session templates and sessions launched from progressions.
+- The iPhone tuner now has an on-screen button to switch between Standard and Chromatic modes (Pro), alongside the existing long-press.
+- The tuner keeps the full string list visible in landscape on smaller iPads.
+- The Practice dashboard fills the screen better on large iPads in portrait, showing more of your recent sessions, templates, and progressions.
 
 **Removed**
 - Dropbox backup has been removed. iCloud sync remains the supported way to back up and sync your practice data across devices. (Dropbox was never visible in the released app's interface; this removes the behind-the-scenes machinery and its documentation.)
